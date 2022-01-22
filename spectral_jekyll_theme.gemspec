@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "spectral_jekyll_theme"
-  spec.version       = "1.2"
-  spec.authors       = ["Andrew Banchich"]
-  spec.email         = ["andrewbanchich@gmail.com"]
+  spec.name          = "emily_the_pt"
+  spec.version       = "0.1"
+  spec.authors       = ["Luke Hollomon"]
+  spec.email         = ["LukeHollomon@gmail.com"]
 
-  spec.summary       = %q{A Jekyll version of the "Spectral" theme by HTML5 UP.}
-  spec.homepage      = "https://andrewbanchich.github.io/spectral-jekyll-theme/"
+  spec.summary       = %q{Emily Hollomon, DPT}
+  spec.homepage      = "https://thephysiologist.github.io/emily-the-pt/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
