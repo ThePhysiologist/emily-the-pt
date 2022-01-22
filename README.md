@@ -1,5 +1,7 @@
 # Spectral - Jekyll Theme
 
+A personal website built for Emily Hollomon, DPT based on:
+
 A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
 ![Spectral Theme](screenshot.jpg "Spectral Theme")
